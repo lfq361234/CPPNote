@@ -1,0 +1,2 @@
+When you want to read txt file from other place in computer, you shold copy the file into project
+and then add file in the project. 
